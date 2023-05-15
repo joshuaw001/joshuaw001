@@ -1,3 +1,4 @@
 # `joshuaw001`'s Profile
 
- * [ ] pyGeometry
+ * [ ] EverythingCraft
+ * [ ] Supercore
